@@ -1,0 +1,11 @@
+{
+  "name": "prompt-syncs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "04-tipado-dinamico.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

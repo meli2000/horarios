@@ -9,12 +9,21 @@ td,th {
 
   }
 
+
+body{
+font-family: "Sour Gummy", sans-serif;
+
+}
+
+
+
   table{ 
     width: 75%;
     border-collapse: separate;
     border-spacing: 10px;
   }
 
+  
   .encabezado{
     font-weight: bold;
   }
